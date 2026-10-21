@@ -41,35 +41,23 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GEliasDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180"
+    src="./profile/stats.svg"
     alt="GitHub statistics"
+    width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEliasDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
+    src="./profile/top-langs.svg"
     alt="Most used programming languages"
+    width="49%"
   />
 </p>
 
 ### Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/GEliasDev">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=GEliasDev&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub contribution activity graph"
-      width="100%"
-    />
-  </a>
-</p>
-
-### GitHub Achievements
-
-<p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=GEliasDev&theme=tokyonight&no-frame=true&no-bg=true&column=6"
-    alt="GitHub profile achievements"
+    src="./profile/github-snake.svg"
+    alt="GitHub contribution activity"
     width="100%"
   />
 </p>
