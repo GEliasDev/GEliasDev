@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gabriel El&#237;as Valdelamar Caldera&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 1054, Total PRs: 1, Total Issues: 0, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 1092, Total PRs: 1, Total Issues: 0, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 208.9244497075531;
+        stroke-dashoffset: 208.69905808679664;
       }
     }
   
